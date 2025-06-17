@@ -1,8 +1,7 @@
 # Low-rank representation induced missing-view recovery for incomplete multi-view clustering
 
 A code for paper Low-rank representation induced missing-view recovery for incomplete multi-view clustering
- (LASER), accepted by Neurocomputing 2024. Any communications or issues are welcomed.
-
+ (LASER), accepted by Neurocomputing 2024. 
 
 # Main function
 - run.m
